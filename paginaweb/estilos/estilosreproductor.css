@@ -1,0 +1,47 @@
+html{
+    font-family: 'poppins' , sans-serif;
+}
+.container{
+    width: 70vw;
+    height: 70vh;
+    margin-top: 15px;
+    
+    margin-bottom: 145px;
+    display: flex;
+    flex-direction: column;
+   
+    
+}
+
+.listado-canciones{
+    width: 100%;
+    margin-bottom: 35px;
+    
+    
+}
+.cancion{
+    padding: 1rem 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    border: 1px solid black;
+    box-shadow:2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    
+   
+}
+.titulo{
+    flex: 6;
+    font-size: 20px;
+    color:black;
+   
+}
+.titulo p{
+    margin-right: 5px;
+}
+.play, .stop, .descargar{
+flex:1;
+cursor: pointer;
+margin-right: 1px;
+}
