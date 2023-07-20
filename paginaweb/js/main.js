@@ -6,12 +6,8 @@ let cad = `
       <ul>
         <li><a href="index.html">Inicio</a></li>
         <li><a href="#tit">En vivo</a></li>
-        <li><a href="#">Secciones</a>
-          <ul>
-            <li><a href="#repcanciones">Predicas</a></li>
-
-            <li><a href="#repcanciones">Testimonios</a></li>
-          </ul>
+        <li><a href="#repcanciones">Predicas</a>
+          
         </li>
         <li><a href="https://api.whatsapp.com/send?phone=3853132590" target="_blank">contacto</a></li>
 
