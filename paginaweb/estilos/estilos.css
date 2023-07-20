@@ -52,7 +52,7 @@ body {
     left: 0;
     right: 0;
     background-color: #36b5f0;
-    padding: 0px 5%;
+    padding: 0px 10%;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -79,8 +79,7 @@ body {
 }
 
 .header .navigation ul li a:hover {
-    background-color: #56c7fb;
-   
+    background-color: #2bbcff;
 
 }
 
